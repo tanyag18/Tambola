@@ -1,1 +1,3 @@
-# Tambola
+This is a program that lets you play tambola without the need for a person to narrate the numbers...
+It uses google TTS to speak the numbers.
+This is open for changes.
