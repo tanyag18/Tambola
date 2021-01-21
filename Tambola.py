@@ -56,7 +56,7 @@ def player():
                     paused = False
                     print('UnPaused')
                     play('play')
-                    break
+                    brea
         elif not killed:
             sleep(speed)
             if not paused and not killed:
